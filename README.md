@@ -1,5 +1,7 @@
 ### Hello, Saif here! 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saif-gitreps&show_icons=true&theme=onedark)
+
+![Most used technology](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-gitreps&layout=compact&theme=onedark)
 <!--
 **saif-gitreps/saif-gitreps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
