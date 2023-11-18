@@ -1,7 +1,7 @@
 ### Hello, Saif here! 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saif-gitreps&show_icons=true&theme=onedark)
 
-### Languages and Tools:
+### Languages and Tools-
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5/red" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3/blue" />
