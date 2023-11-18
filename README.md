@@ -10,7 +10,9 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/#ADD8E6" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/green" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/blue" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/blue" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python/green" />
+  
+  
 </div>
 
 ![Most used technology](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-gitreps&layout=compact&theme=onedark)
