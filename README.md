@@ -3,9 +3,28 @@ Hello! Saif here :D,
 ============================================================================================================================
 
 ### My hobbies which are also my skills :
-#### Frequently used Languages: Javascript/TypeScript, Python, C++, and GoLang(beginner phase). 
-#### Frontend: React, Tailwind CSS, HTML/CSS, Flutter(beginner phase).
-#### Backend: Node.js(Express.js), Python (Flask.py), MySQL, MongoDB, Appwrite(BaaS).
+
+#### Frequently used Languages:
+
+![JavaScript Badge](<URL javascript badge shields io>) / [TypeScript Badge](<URL typescript badge shields io>)<br>
+![Python Badge](<URL python badge shields io>)<br>
+![C++ Badge](<URL c++ badge shields io>)<br>
+![Go Badge](<URL golang badge shields io>) (beginner phase)
+
+#### Frontend:
+
+![React Badge](<URL react badge shields io>)<br>
+![Tailwind CSS Badge](<URL tailwindcss badge shields io>)<br>
+![HTML/CSS Badge](<URL html css badge shields io>)<br>
+![Flutter Badge](<URL flutter badge shields io>) (beginner phase)
+
+#### Backend:
+
+![Node.js Badge](<URL node js badge shields io>) (Express.js)<br>
+![Python Badge](<URL python badge shields io>) (Flask.py)<br>
+![MySQL Badge](<URL mysql badge shields io>)<br>
+![MongoDB Badge](<URL mongodb badge shields io>)<br>
+![Appwrite Badge](<URL appwrite badge shields io>) (BaaS)
 
 <!--
 <p align="left">
