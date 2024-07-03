@@ -2,29 +2,13 @@
 Hello! Saif here :D,
 ============================================================================================================================
 
-### My hobbies which are also my skills :
+## My hobbies and skills :
+### Frequently used languages: **<span style="font-weight: bold; color: #388E3C;">JavaScript</span>** / **<span style="font-weight: bold; color: #388E3C;">TypeScript</span>**, **<span style="font-weight: bold; color: #388E3C;">Python</span>**, **<span style="font-weight: bold; color: #388E3C;">C++</span>**, **<span style="font-weight: bold; color: #388E3C;">Go**</span> (beginner phase)
 
-#### Frequently used Languages:
+### Frontend: **<span style="font-weight: bold; color: #388E3C;">React</span>**, **<span style="font-weight: bold; color: #388E3C;">Tailwind CSS</span>**, **<span style="font-weight: bold; color: #388E3C;">HTML/CSS</span>**, **<span style="font-weight: bold; color: #388E3C;">Flutter**</span> (beginner phase)
 
-![JavaScript Badge](<URL javascript badge shields io>) / [TypeScript Badge](<URL typescript badge shields io>)<br>
-![Python Badge](<URL python badge shields io>)<br>
-![C++ Badge](<URL c++ badge shields io>)<br>
-![Go Badge](<URL golang badge shields io>) (beginner phase)
+### Backend: **<span style="font-weight: bold; color: #388E3C;">Node.js (Express.js)</span>**, **<span style="font-weight: bold; color: #388E3C;">Python (Flask.py)</span>**, **<span style="font-weight: bold; color: #388E3C;">MySQL</span>**, **<span style="font-weight: bold; color: #388E3C;">MongoDB</span>**, **<span style="font-weight: bold; color: #388E3C;">Appwrite (BaaS)</span>**
 
-#### Frontend:
-
-![React Badge](<URL react badge shields io>)<br>
-![Tailwind CSS Badge](<URL tailwindcss badge shields io>)<br>
-![HTML/CSS Badge](<URL html css badge shields io>)<br>
-![Flutter Badge](<URL flutter badge shields io>) (beginner phase)
-
-#### Backend:
-
-![Node.js Badge](<URL node js badge shields io>) (Express.js)<br>
-![Python Badge](<URL python badge shields io>) (Flask.py)<br>
-![MySQL Badge](<URL mysql badge shields io>)<br>
-![MongoDB Badge](<URL mongodb badge shields io>)<br>
-![Appwrite Badge](<URL appwrite badge shields io>) (BaaS)
 
 <!--
 <p align="left">
