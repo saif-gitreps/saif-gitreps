@@ -13,7 +13,7 @@ Hi! Saif here :),
 -->
 ### My current tech-stack:
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,cpp,html,css,js,ts,tailwind,jest,cypress,react,flutter,redux,nodejs,express,nextjs,flask,anaconda,appwrite,git,github,mongodb,mysql,netlify,prisma,sqlite,vercel,npm,&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,cpp,html,css,js,ts,tailwind,jest,cypress,react,flutter,redux,nodejs,express,nextjs,flask,anaconda,appwrite,git,github,mongodb,mysql,netlify,prisma,sqlite,vercel,npm,&perline=10)](https://skillicons.dev)
 
 ### Badges
 
