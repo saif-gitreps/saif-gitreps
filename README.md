@@ -1,7 +1,7 @@
 
-Hi! Saif here :),
+Hi! Saif here :wave: 
 ============================================================================================================================
-#### A Fullstack dev and a comp sci student, who loves to find and solve problems using various software technologies. 
+#### A Fullstack dev, charting new territories in the tech ecosystem to expand my toolkit and bring innovative SW solutions to life.
 
 <!--
 ## My hobbies and skills :
