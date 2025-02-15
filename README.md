@@ -15,7 +15,6 @@ Hi! Saif here :wave:
 [![My Skills](https://skillicons.dev/icons?i=go,py,cpp,html,css,js,ts,tailwind,jest,cypress,react,flutter,redux,nodejs,express,nextjs,flask,anaconda,appwrite,git,github,mongodb,mysql,netlify,prisma,sqlite,vercel,npm,&perline=15)](https://skillicons.dev)
 
 ### My GitHub Stats
-<!-- <a href="http://www.github.com/saif-gitreps"><img src="https://github-readme-stats.vercel.app/api?username=saif-gitreps&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="saif-gitreps's GitHub stats" /></a>
--->
+<a href="http://www.github.com/saif-gitreps"><img src="https://github-readme-stats.vercel.app/api?username=saif-gitreps&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="saif-gitreps's GitHub stats" /></a>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saif-gitreps&show_icons=true&theme=transparent)
 
