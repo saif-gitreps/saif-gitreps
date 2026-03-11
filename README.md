@@ -1,11 +1,8 @@
-### 💫 About Me
-
 ### Hi 👋 I’m **Saif** — a Graduate Software Engineer with a Bachelor’s degree in Computer Science & Engineering.
 ### I enjoy building real-world, production-ready applications and constantly sharpening my problem-solving skills.
 #### 🚀 **What I’m up to:**
 #### ✍️ Building full-stack web applications using modern JavaScript frameworks  
 #### 🕵️‍♀️ Solving DSA problems to think better, not just code faster  
-#### 🏂🏻 Exploring new technologies and understanding how they work under the hood  
 ---
 ### 💻 Tech Stack
 #### 🧠 Languages
