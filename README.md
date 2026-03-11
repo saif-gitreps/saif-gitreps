@@ -48,6 +48,4 @@
 
 #### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=saif-gitreps&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=saif-gitreps&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-gitreps&theme=dark&hide_border=false&layout=compact)
 
